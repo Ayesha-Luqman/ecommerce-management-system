@@ -199,21 +199,6 @@ http://localhost:5173/
 
 ---
 
-## Screenshots
-
-Add screenshots here after uploading them.
-
-* Home Page
-* Products Page
-* Product Details
-* Shopping Cart
-* Login Page
-* Register Page
-* My Orders
-* Django Admin Dashboard
-
----
-
 ## Future Improvements
 
 * Online Payment Integration
