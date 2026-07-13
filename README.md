@@ -46,15 +46,17 @@ A full-stack **E-Commerce Management System** built using **React.js** and **Dja
 
 ## Project Structure
 
-```text
+```
 E-Commerce-Management-System/
 │
-├── ecommerce/                 # Django Backend
-│   ├── ecommerce/
-│   ├── store/
-│   ├── media/
-│   ├── db.sqlite3
-│   └── manage.py
+├── backend/                   # Django Backend
+│   ├── ecommerce/             # Django project settings
+│   ├── store/                 # Main application
+│   ├── media/                 # Product images
+│   ├── manage.py
+│   ├── requirements.txt
+│   ├── build.sh
+│   └── db.sqlite3
 │
 ├── frontend/                  # React Frontend
 │   ├── src/
@@ -67,7 +69,7 @@ E-Commerce-Management-System/
 │   └── package.json
 │
 ├── README.md
-└── requirements.txt
+└── .gitignore
 ```
 
 ---
