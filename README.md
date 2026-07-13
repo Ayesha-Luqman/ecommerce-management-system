@@ -79,7 +79,7 @@ E-Commerce-Management-System/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/E-Commerce-Management-System.git
+git clone https://github.com/Ayesha-Luqman/ecommerce-management-system.git
 cd E-Commerce-Management-System
 ```
 
@@ -90,7 +90,7 @@ cd E-Commerce-Management-System
 Navigate to the backend directory:
 
 ```bash
-cd ecommerce
+cd backend
 ```
 
 Create a virtual environment (recommended):
@@ -219,4 +219,8 @@ http://localhost:5173/
 
 - GitHub: https://github.com/Ayesha-Luqman
 - LinkedIn: https://www.linkedin.com/in/ayesha-luqman/
+
+- ## License
+
+This project is developed for educational and portfolio purposes.
 
